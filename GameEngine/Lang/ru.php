@@ -118,9 +118,9 @@ define("Q_CONTINUE","Перейти к следующему заданию.");
 define("Q_REWARD","Ваша награда:");
 define("Q0","Добро пожаловать ");
 define("Q0_DESC","As I see you have been made chieftain of this little village. I will be your counselor for the first few days and never leave your (right hand) side.");
-define("Q0_OPT1","To the first task.");
-define("Q0_OPT2","Look around on your own.");
-define("Q0_OPT3","Play no tasks.");
+define("Q0_OPT1","Перейти к первому заданию.");
+define("Q0_OPT2","Осмотритесь вокруг.");
+define("Q0_OPT3","Играть без заданий.");
 
 define("Q1","Task 1: Woodcutter");
 define("Q1_DESC","There are four green forests around your village. Construct a woodcutter on one of them. Lumber is an important resource for our new settlement.");
