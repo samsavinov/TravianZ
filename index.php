@@ -55,6 +55,7 @@ include ("GameEngine/Lang/".LANG.".php");
 	<link rel="stylesheet" type="text/css" href="gpack/travian/flaggs.css" />
 	<link rel="stylesheet" type="text/css" href="gpack/travian/main_en.css" />
 	<meta name="content-language" content="<?php echo LANG; ?>" />
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 	<meta http-equiv="imagetoolbar" content="no" />
 	<script src="mt-core.js" type="text/javascript"></script>
 	<script src="new.js" type="text/javascript"></script>
