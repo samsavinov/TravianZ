@@ -312,7 +312,7 @@ define("Q36_ORDER","Order:<\/p>Build a ");
 define("Q36_RESP","That's what I'm talking about. A ");
 define("Q36_RESP1"," Very useful. It increases the defence of the troops in the village.");
 
-define("Q37","Tasks");
+define("Q37","Задания");
 define("Q37_DESC","All tasks achieved!");
 
 define("OPT3","Resource overview");
@@ -535,10 +535,10 @@ define("MASS_ABORT","Aborting right now");
 define("MASS_SENT","Mass IGM was sent");
 
 //BUILDINGS
-define("WOODCUTTER","Woodcutter");
-define("CLAYPIT","Clay Pit");
-define("IRONMINE","Iron Mine");
-define("CROPLAND","Cropland");
+define("WOODCUTTER","Лесопилка");
+define("CLAYPIT","Глиняный карьер");
+define("IRONMINE","Железный рудник");
+define("CROPLAND","Ферма");
 define("SAWMILL","Sawmill");
 define("BRICKYARD","Brickyard");
 define("IRONFOUNDRY","Iron Foundry");
@@ -550,7 +550,7 @@ define("BLACKSMITH","Blacksmith");
 define("ARMOURY","Armoury");
 define("TOURNAMENTSQUARE","Tournament Square");
 define("MAINBUILDING","Main Building");
-define("RALLYPOINT","Rally Point");
+define("RALLYPOINT","Пункт сбора");
 define("OVERVIEW","Resumen");
 define("RALLYPOINT_DESC","Your village's troops meet here. From here you can send them out to conquer, raid or reinforce other villages.");
 define("MARKETPLACE","Marketplace");
@@ -706,24 +706,24 @@ define("WWVILLAGE","WW village");
 */
 
 	   $lang['index'][0][1] = "Welcome to " . SERVER_NAME . "";
-	   $lang['index'][0][2] = "Manual";
+	   $lang['index'][0][2] = "Руководство";
 	   $lang['index'][0][3] = "Play now, for free!";
 	   $lang['index'][0][4] = "What is " . SERVER_NAME . "";
 	   $lang['index'][0][5] = "" . SERVER_NAME . " is a <b>browser game</b> featuring an engaging ancient world with thousands of other real players.</p><p>It`s <strong>free to play</strong> and requires <strong>no downloads</strong>.";
 	   $lang['index'][0][6] = "Click here to play " . SERVER_NAME . "";
-	   $lang['index'][0][7] = "Total players";
-	   $lang['index'][0][8] = "Players active";
-	   $lang['index'][0][9] = "Players online";
+	   $lang['index'][0][7] = "Всего игроков";
+	   $lang['index'][0][8] = "Активных игроков";
+	   $lang['index'][0][9] = "Игроков в сети";
 	   $lang['index'][0][10] = "About the game";
 	   $lang['index'][0][11] = "You will begin as the chief of a tiny village and will embark on an exciting quest.";
 	   $lang['index'][0][12] = "Build up villages, wage wars or establish trade routes with your neighbours.";
 	   $lang['index'][0][13] = "Play with and against thousands of other real players and conquer the the world of Travian.";
-	   $lang['index'][0][14] = "News";
+	   $lang['index'][0][14] = "Новости";
 	   $lang['index'][0][15] = "FAQ";
-	   $lang['index'][0][16] = "Screenshots";
-	   $lang['forum'] = "Forum";
+	   $lang['index'][0][16] = "Скриншоты";
+	   $lang['forum'] = "Форум";
 	   $lang['register'] = "Регистрация";
-	   $lang['login'] = "Login";
+	   $lang['login'] = "Вход";
 
 /*
 |--------------------------------------------------------------------------
